@@ -29,7 +29,7 @@ module.exports = { session: process.env.SESSION_ID || 'eyJub2lzZUtleSI6eyJwcml2Y
     HEROKU_APY_KEY : process.env.HEROKU_APY_KEY || HRKU-1e1c86aa-c402-410c-a426-68a6a9175e65,
     WARN_COUNT : process.env.WARN_COUNT || '3' ,
     ETAT : process.env.PRESENCE || '',
-    //GPT : process.env.OPENAI_API_KEY || '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',
+    //GPT : process.env.OPENAI_API_KEY || 'HRKU-1e1c86aa-c402-410c-a426-68a6a9175e65',
     DP : process.env.STARTING_BOT_MESSAGE || "yes",
     ADM : process.env.ANTI_DELETE_MESSAGE || 'yes',
     CHATBOT : process.env.PM_CHATBOT || 'no',  
